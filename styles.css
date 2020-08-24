@@ -2,12 +2,12 @@
     border: 1px dotted black;
 }
 #blue-background {
-    background-color: blueviolet;
+    background-color: rgb(97, 211, 240);
     color: cornsilk;
 }
 main {
     border: 10px dotted white;
-    background-color: #181be4;
+    background-color: #69a0f1;
     color: #ffffff;
     width: 400px;
     margin: auto;
